@@ -3,6 +3,7 @@ algoritmo "Diferença de temperatura"
 var
 
    Graus, Fahrenheit:Real
+   
 inicio
 
       Escreva("qual é a temperatura: ")
